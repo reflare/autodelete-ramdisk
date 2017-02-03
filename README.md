@@ -13,9 +13,13 @@ By mounting two separate ramdisks and pointing a rotating symlink to one of them
 
 #### Options
 `symlink` The symlink pointing to the currently active ramdisk.
+
 `mountpoint_a` Mountpoint for the first ramdisk.
+
 `mountpoint_b` Mountpoint for the second ramdisk.
+
 `size_in_mb` Size of each ramdisk in MB.
+
 `rotation_time` Switch between ramdisks every X seconds.
 
 #### Important
