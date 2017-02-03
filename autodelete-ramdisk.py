@@ -22,7 +22,7 @@ from time import sleep
 import signal
 
 def printUsage():
-    print """Usage: ./autodelete-ramdisk.py symlink mountpoint_a mountpoint_b size_in_mb rotation_time_in_seconds
+    print """Usage: ./autodelete-ramdisk.py symlink mountpoint_a mountpoint_b size_in_mb rotation_time
 symlink:\tThe symlink pointing to the currently active ramdisk.
 mountpoint_a:\tMountpoint for the first ramdisk.
 mountpoint_b:\tMountpoint for the second ramdisk.
