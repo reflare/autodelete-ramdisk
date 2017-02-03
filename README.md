@@ -28,4 +28,4 @@ Always write files to the symlink, not to the ramdisks directly.
 
 #### Installation
 
-Place afl-monitor anywhere in your file system and execute it. Requires Python 2.7.
+Place afl-autodelete-ramdisk.py anywhere in your file system and execute it. Requires Python 2.7.
